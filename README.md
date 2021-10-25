@@ -1,2 +1,4 @@
-# i-need-programmers-like-this
-저는 이런 프로그래머를 원합니다.
+# 이런 조건에 부합하는 프로그래머를 찾습니다
+
+동기:
+[취준생들이 무엇을 준비해야 할지 미리 알 수 있게 하자](https://twitter.com/ahastudio/status/1450688109255954434).
